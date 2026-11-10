@@ -1,3 +1,7 @@
+> **Modelleertaal classic (v5.4.2)**: bevroren versie van [tomkooij/modelleertaal](https://github.com/tomkooij/modelleertaal)
+> zoals die stond vóór versie 6. Deze repo wordt niet meer ontwikkeld.
+> Webapp: <https://www.tomkooij.nl/modelleertaal-classic/>
+
 Simple compiler and webapp for *Modelleertaal*
 ==========================================
 

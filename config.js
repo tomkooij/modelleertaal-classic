@@ -6,11 +6,11 @@ var config_js_loaded = true;
 
 
 var N_default = 500;		// default waarde voor N (aantal iteraties)
-var base_url = 'https://www.tomkooij.nl/modelleertaal';
+var base_url = 'https://www.tomkooij.nl/modelleertaal-classic';
 
 // titelbalk bovenaan
-var title = 'Modelleertaal';
-var title_link = 'https://www.github.com/tomkooij/modelleertaal';
+var title = 'Modelleertaal classic (v5.4.2)';
+var title_link = 'https://www.github.com/tomkooij/modelleertaal-classic';
 
 // definitie van het "profiel", welke knoppen staan aan enz.
 var full_webapp = [
